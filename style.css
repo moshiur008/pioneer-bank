@@ -1,0 +1,35 @@
+body{
+    padding:100px;
+}
+
+.form-area{
+    margin-top: 50px;
+    padding: 40px;
+    box-shadow:5px 5px 10px gray;
+    border-radius:5px;
+}
+
+#transaction-area {
+    display:none;
+}
+
+.box {
+    margin:0 20px;
+    padding:20px;
+    border-radius:10px;
+    color:#fff;
+}
+
+.slateblue {
+    background-color: slateblue;
+}
+
+.lightsalmon {
+    background-color: lightsalmon;
+}
+
+.orange {
+    background-color: orange;
+}
+
+/* Slateblue, lightcalmon, orange
